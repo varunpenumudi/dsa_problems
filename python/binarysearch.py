@@ -14,6 +14,3 @@ def binsearch(arr, key):
 
 arr = [1,2,3,4]
 print(binsearch(arr,4))
-
-
-# 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(key)
